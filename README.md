@@ -2,7 +2,7 @@
 
 ## The order of the notebooks are (Ignore everything else): 
 
-* [Data Preparation](/Data\ Preparation.ipynb)
+* [Data Preparation](/Data_Preparation.ipynb)
 * [Data Preprocessor]
 * [Multilayer Perceptron]
 * [CNN]
